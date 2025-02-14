@@ -1,7 +1,7 @@
 # Turtle_game
 
 
-Turtle Racing Game is a fun Python project using the `turtle` module. Players can select the number of racers, and the turtles move randomly toward the finish line. The first turtle to reach the top wins!
+Turtle racing game is a fun Python project using the `turtle` module. Players can select the number of racers, and the turtles move randomly toward the finish line. The first turtle to reach the top wins!
 
 ## 🎮 Features
 - Choose **2 to 10 racers**.
