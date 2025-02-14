@@ -11,9 +11,10 @@ Turtle racing game is a fun Python project using the `turtle` module. Players ca
 ## 📌 How to Run the Game
 1. Install Python (if not already installed).
 2. Open a terminal or command prompt and navigate to the project folder.
-3. Run the script using:
+3. ![Screenshot 2025-02-14 220738](https://github.com/user-attachments/assets/8358a4f9-3124-44ca-a432-1a9f65bdcae7)
+
+4. Run the script using:
   ```sh
    python turtle_race.py
-![Screenshot 2025-02-14 220738](https://github.com/user-attachments/assets/2ecec2aa-d2d7-4c30-92a7-c1528d982c62)
-
-![Screenshot 2025-02-14 221006](https://github.com/user-attachments/assets/937d06ac-c82c-4e1d-9d7c-0ded29ff465f)
+```
+![Screenshot 2025-02-14 221006](https://github.com/user-attachments/assets/b9b7e3f7-8cd5-462c-a004-aaa54eda92c9)
